@@ -1,0 +1,22 @@
+# package needed in a python 3.12 env
+# conda create -n your-env-name python=3.12
+# conda activate your-env-name
+# pip install -r requirements_common.txt
+bs4
+gym
+keras
+lxml
+matplotlib
+numpy
+opencv-python
+pandas
+pyvista
+pydmd
+PyQt5
+pyyaml
+scikit-learn
+scikit-optimize
+scipy
+seaborn
+tensorflow
+tqdm
